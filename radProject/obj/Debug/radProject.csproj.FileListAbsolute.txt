@@ -1,0 +1,82 @@
+D:\c#\radProject\radProject\obj\Debug\radProject.csproj.AssemblyReference.cache
+D:\c#\radProject\radProject\obj\Debug\radProject.csproj.SuggestedBindingRedirects.cache
+D:\c#\radProject\radProject\obj\Debug\radProject.Form1.resources
+D:\c#\radProject\radProject\obj\Debug\radProject.Properties.Resources.resources
+D:\c#\radProject\radProject\obj\Debug\radProject.csproj.GenerateResource.cache
+D:\c#\radProject\radProject\obj\Debug\radProject.csproj.CoreCompileInputs.cache
+D:\c#\radProject\radProject\bin\Debug\radProject.exe.config
+D:\c#\radProject\radProject\bin\Debug\radProject.exe
+D:\c#\radProject\radProject\bin\Debug\radProject.pdb
+D:\c#\radProject\radProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c#\radProject\radProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\c#\radProject\radProject\bin\Debug\Npgsql.dll
+D:\c#\radProject\radProject\bin\Debug\System.Buffers.dll
+D:\c#\radProject\radProject\bin\Debug\System.Collections.Immutable.dll
+D:\c#\radProject\radProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\c#\radProject\radProject\bin\Debug\System.Memory.dll
+D:\c#\radProject\radProject\bin\Debug\System.Numerics.Vectors.dll
+D:\c#\radProject\radProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\c#\radProject\radProject\bin\Debug\System.Text.Encodings.Web.dll
+D:\c#\radProject\radProject\bin\Debug\System.Text.Json.dll
+D:\c#\radProject\radProject\bin\Debug\System.Threading.Channels.dll
+D:\c#\radProject\radProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\c#\radProject\radProject\bin\Debug\System.ValueTuple.dll
+D:\c#\radProject\radProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\c#\radProject\radProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\c#\radProject\radProject\bin\Debug\Npgsql.xml
+D:\c#\radProject\radProject\bin\Debug\System.Buffers.xml
+D:\c#\radProject\radProject\bin\Debug\System.Collections.Immutable.xml
+D:\c#\radProject\radProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\c#\radProject\radProject\bin\Debug\System.Memory.xml
+D:\c#\radProject\radProject\bin\Debug\System.Numerics.Vectors.xml
+D:\c#\radProject\radProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\c#\radProject\radProject\bin\Debug\System.Text.Encodings.Web.xml
+D:\c#\radProject\radProject\bin\Debug\System.Text.Json.xml
+D:\c#\radProject\radProject\bin\Debug\System.Threading.Channels.xml
+D:\c#\radProject\radProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\c#\radProject\radProject\bin\Debug\System.ValueTuple.xml
+D:\c#\radProject\radProject\obj\Debug\radProject.csproj.CopyComplete
+D:\c#\radProject\radProject\obj\Debug\radProject.exe
+D:\c#\radProject\radProject\obj\Debug\radProject.pdb
+D:\c#\radProject\radProject\obj\Debug\radProject.csproj.ResolveComReference.cache
+D:\c#\radProject Kris\radProject\bin\Debug\radProject.exe.config
+D:\c#\radProject Kris\radProject\bin\Debug\radProject.exe
+D:\c#\radProject Kris\radProject\bin\Debug\radProject.pdb
+D:\c#\radProject Kris\radProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c#\radProject Kris\radProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\c#\radProject Kris\radProject\bin\Debug\Npgsql.dll
+D:\c#\radProject Kris\radProject\bin\Debug\System.Buffers.dll
+D:\c#\radProject Kris\radProject\bin\Debug\System.Collections.Immutable.dll
+D:\c#\radProject Kris\radProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\c#\radProject Kris\radProject\bin\Debug\System.Memory.dll
+D:\c#\radProject Kris\radProject\bin\Debug\System.Numerics.Vectors.dll
+D:\c#\radProject Kris\radProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\c#\radProject Kris\radProject\bin\Debug\System.Text.Encodings.Web.dll
+D:\c#\radProject Kris\radProject\bin\Debug\System.Text.Json.dll
+D:\c#\radProject Kris\radProject\bin\Debug\System.Threading.Channels.dll
+D:\c#\radProject Kris\radProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\c#\radProject Kris\radProject\bin\Debug\System.ValueTuple.dll
+D:\c#\radProject Kris\radProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\c#\radProject Kris\radProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\c#\radProject Kris\radProject\bin\Debug\Npgsql.xml
+D:\c#\radProject Kris\radProject\bin\Debug\System.Buffers.xml
+D:\c#\radProject Kris\radProject\bin\Debug\System.Collections.Immutable.xml
+D:\c#\radProject Kris\radProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\c#\radProject Kris\radProject\bin\Debug\System.Memory.xml
+D:\c#\radProject Kris\radProject\bin\Debug\System.Numerics.Vectors.xml
+D:\c#\radProject Kris\radProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\c#\radProject Kris\radProject\bin\Debug\System.Text.Encodings.Web.xml
+D:\c#\radProject Kris\radProject\bin\Debug\System.Text.Json.xml
+D:\c#\radProject Kris\radProject\bin\Debug\System.Threading.Channels.xml
+D:\c#\radProject Kris\radProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\c#\radProject Kris\radProject\bin\Debug\System.ValueTuple.xml
+D:\c#\radProject Kris\radProject\obj\Debug\radProject.csproj.AssemblyReference.cache
+D:\c#\radProject Kris\radProject\obj\Debug\radProject.csproj.SuggestedBindingRedirects.cache
+D:\c#\radProject Kris\radProject\obj\Debug\radProject.csproj.ResolveComReference.cache
+D:\c#\radProject Kris\radProject\obj\Debug\radProject.Form1.resources
+D:\c#\radProject Kris\radProject\obj\Debug\radProject.Properties.Resources.resources
+D:\c#\radProject Kris\radProject\obj\Debug\radProject.csproj.GenerateResource.cache
+D:\c#\radProject Kris\radProject\obj\Debug\radProject.csproj.CoreCompileInputs.cache
+D:\c#\radProject Kris\radProject\obj\Debug\radProject.csproj.CopyComplete
+D:\c#\radProject Kris\radProject\obj\Debug\radProject.exe
+D:\c#\radProject Kris\radProject\obj\Debug\radProject.pdb
